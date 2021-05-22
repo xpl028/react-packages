@@ -1,0 +1,27 @@
+{
+  "name": "text-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/text-button.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpl028/react-packages.git"
+  },
+  "keywords": [
+    "text-btn",
+    "text-button",
+    "TextBtn",
+    "TextButton",
+    "button"
+  ],
+  "author": "Xwz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpl028/react-packages/issues"
+  },
+  "homepage": "https://github.com/xpl028/react-packages/packages/text-button#readme",
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "react": "^17.0.2"
+  }
+}
