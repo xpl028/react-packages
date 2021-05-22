@@ -1,6 +1,6 @@
 {
-  "name": "text-button",
-  "version": "1.0.0",
+  "name": "text-btn",
+  "version": "1.0.1",
   "description": "",
   "main": "./dist/text-button.min.js",
   "repository": {
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/xpl028/react-packages/issues"
   },
-  "homepage": "https://github.com/xpl028/react-packages/packages/text-button#readme",
+  "homepage": "https://github.com/xpl028/react-packages/blob/master/packages/text-button/README.md",
   "dependencies": {
     "classnames": "^2.3.1",
     "react": "^17.0.2"
