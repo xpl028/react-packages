@@ -1,0 +1,24 @@
+{
+  "name": "clipboard-btn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/clipboard-button.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpl028/react-packages.git"
+  },
+  "keywords": ["clipboard", "clipboard-btn", "clipboard-button"],
+  "author": "Xwz",
+  "dependencies": {
+    "antd": "^4.16.0",
+    "clipboard": "^2.0.8",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "text-btn": "^1.0.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpl028/react-packages/issues"
+  }
+}

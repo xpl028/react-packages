@@ -15,7 +15,7 @@ module.exports = {
     }),
   ],
   devServer: {
-    contentBase: resolve(__dirname, 'packages'),
+    contentBase: resolve(__dirname, 'main/dist'),
     hot: true,
     // open: true,
   },
